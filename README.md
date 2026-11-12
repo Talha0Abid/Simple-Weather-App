@@ -24,7 +24,7 @@ I get the weather data from the [Open-Meteo API](https://open-meteo.com/). In my
 
 
 - ```flutter run -d windows```
-=======
+
 - ```flutter run -d windows```
 
 ## ⚙️Install the executable program
