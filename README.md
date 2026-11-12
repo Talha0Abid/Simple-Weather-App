@@ -22,8 +22,12 @@ I get the weather data from the [Open-Meteo API](https://open-meteo.com/). In my
 
 4. Run the application on Windows:
 
-<<<<<<< HEAD
+
 - ```flutter run -d windows```
 =======
 - ```flutter run -d windows```
->>>>>>> c825f1690484fcc8dab5353cadfb3c3d0f3c8b17
+
+## ⚙️Install the executable program
+
+- To install the (.exe) file, click in the [releases section](https://github.com/Talha0Abid/Simple-Weather-App/releases)
+
